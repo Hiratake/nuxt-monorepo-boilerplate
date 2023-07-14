@@ -5,6 +5,7 @@
       "dependsOn": ["^build"],
       "outputs": ["dist/*", ".output/*", ".nuxt/*"]
     },
-    "lint": {}
+    "lint": {},
+    "lint:fix": {}
   }
 }

@@ -1,0 +1,10 @@
+{
+  "stylelint.validate": ["css", "vue"],
+  "tailwindCSS.includeLanguages": {
+    "vue": "html"
+  },
+  "[javascript][javascriptreact][typescript][typescriptreact][css][json][yaml][html][vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
