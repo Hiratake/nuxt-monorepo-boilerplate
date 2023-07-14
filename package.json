@@ -1,0 +1,8 @@
+{
+  "name": "nuxt-app-monorepo",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "turbo": "^1.10.7"
+  }
+}
