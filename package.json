@@ -12,9 +12,14 @@
     "turbo": "^1.10.7"
   },
   "scripts": {
+    "build": "turbo run build",
+    "dev": "pnpm --filter nuxt-app dev",
+    "generate": "pnpm --filter nuxt-app generate",
     "lint": "turbo run lint",
     "lint:fix": "turbo run lint:fix",
+    "typecheck": "turbo run typecheck",
     "format": "prettier . -w",
+    "preview": "pnpm --filter nuxt-app preview",
     "prepare": "husky install"
   }
 }
