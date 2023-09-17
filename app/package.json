@@ -3,18 +3,18 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "@nuxt/devtools": "^0.6.7",
+    "@nuxt/devtools": "^0.8.3",
     "@nuxtjs/eslint-module": "^4.1.0",
-    "@types/node": "^18.16.19",
-    "autoprefixer": "^10.4.14",
-    "eslint": "^8.44.0",
+    "@types/node": "^20.6.2",
+    "autoprefixer": "^10.4.15",
+    "eslint": "^8.49.0",
     "eslint-config-custom": "workspace:^",
-    "nuxt": "^3.6.2",
-    "postcss": "^8.4.26",
+    "nuxt": "^3.7.3",
+    "postcss": "^8.4.29",
     "tailwind-config": "workspace:^",
     "tailwindcss": "^3.3.3",
-    "typescript": "^5.1.6",
-    "vue-tsc": "^1.8.4"
+    "typescript": "^5.2.2",
+    "vue-tsc": "^1.8.11"
   },
   "scripts": {
     "build": "nuxt build",

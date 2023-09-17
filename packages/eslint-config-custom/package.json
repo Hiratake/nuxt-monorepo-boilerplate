@@ -4,11 +4,11 @@
   "private": true,
   "main": "index.cjs",
   "dependencies": {
-    "@nuxt/eslint-config": "^0.1.1",
-    "eslint-config-prettier": "^8.8.0"
+    "@nuxt/eslint-config": "^0.2.0",
+    "eslint-config-prettier": "^9.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.44.0"
+    "eslint": "^8.49.0"
   },
   "scripts": {
     "lint": "eslint . --ext .cjs -c index.cjs",
